@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @evebrennan
 - 👀 I’m interested in all things DevOps-y
-- 🌱 I’m currently learning Kubernetes
-- 💞️ Ask me about Terraform, AWS Transfer Family, and Streamlit + GPT implementations
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eve-brennan)
 - 😄 Pronouns: she/her
